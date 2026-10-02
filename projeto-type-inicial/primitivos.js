@@ -30,4 +30,12 @@ function calcLength(input) {
     return input.toString().length;
 }
 console.log(calcLength("Lisiane-san"));
+// Arrays e tuplas
+const languages = ["C#", "Java", "JavaScript"];
+languages.push("PHP");
+let httpResponse;
+httpResponse = [200, "OK"];
+// Não recomendado: usar any
+let flexData = 10;
+flexData = "information";
 //# sourceMappingURL=primitivos.js.map

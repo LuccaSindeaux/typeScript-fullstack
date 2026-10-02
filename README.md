@@ -3,6 +3,8 @@
 ## TypeScript 
 Uma forma diferente de escrever JavaScript, visando facilitar a visualização de erros para a IDE onde ele está sendo escrito, no fim do dia o compilador lerá tudo como JS, mas no momento de codar, ele preverá possíveis erros com a forma que está escrito, já que é possível tipar as variáveis que são criadas.
 
+## Aula 1.1 de TypeScript
+
 ### Instalação
 Abrir terminal na pasta na raiz > executar ```npm install typescript```. 
 No projeto: ```npx tsc --init``` para criar o tsconfig.json, para configurar as regras que serão utilizadas no typescript, e outras funcionalidades.
@@ -63,3 +65,13 @@ Depois de mexer no código: rodar em terminal ```npx tsc``` para compilar o TS p
 
 #### Importância da compilação
 Arquivos TS não são executados em terminal, apenas os arquivos JS são, depois de compilado, deve ser executado em terminal com ```node arquivo.js```
+
+## Aula 1.2 TypeScript - criação de objetos e apelidos
+
+Depois de definir os tipos, e então criar um 'macro-tipo' que será nosso objeto, podemos colocar os tipos previamente criados no objeto, seguindo o mesmo conceito base do arquivo [Aliases.ts](alias-project/Aliases.ts)
+
+## Aula 1.3 TypeScript - criação de interface
+
+Uma interface pode possuir um tipo opcional, sinalizado com ' ? ', como no arquivo [InterfacesTypes.ts](interface-project/InterfacesTypes.ts). linhas 5, 23 e 44
+
+Interfaces podem ser extendidas com ```extends```

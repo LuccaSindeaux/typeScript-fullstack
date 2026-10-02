@@ -1,1 +1,9 @@
 /node_modules
+projeto-type-inicial/*.js*
+projeto-type-inicial/*.d.ts*
+
+alias-project/*.js*
+alias-project/*.d.ts*
+
+interface-project/*.js*
+interface-project/*.d.ts*
