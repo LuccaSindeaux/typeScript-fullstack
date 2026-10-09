@@ -7,3 +7,12 @@ alias-project/*.d.ts*
 
 interface-project/*.js*
 interface-project/*.d.ts*
+
+classes-ts/*.js*
+classes-ts/*.d.ts*
+
+desafio-1/*.js*
+desafio-1/*d.ts*
+
+encapsulamento/*.js*
+encapsulamento/*d.ts*
