@@ -1,4 +1,6 @@
 /node_modules
+projeto-type-inicial/primitivos.js*
+projeto-type-inicial/primitivos.d.ts*
 projeto-type-inicial/*.js*
 projeto-type-inicial/*.d.ts*
 
@@ -19,3 +21,6 @@ encapsulamento/*d.ts*
 
 formas-geometricas/*.js*
 formas-geometricas/*d.ts*
+
+desafio-whatsapp/*.js*
+desafio-whatsapp/*d.ts*
